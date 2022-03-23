@@ -7,6 +7,6 @@ namespace Api.Edu.Interfaces
 {
     public interface IEmpleado
     {
-        public List<IEmpleado> GetEmpleados();
+        public List<Persona> GetEmpleados();
     }
 }

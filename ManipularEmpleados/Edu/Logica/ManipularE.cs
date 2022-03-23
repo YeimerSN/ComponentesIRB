@@ -2,14 +2,17 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using ConexionDB.Proxy.ProxyEmpleados;
+using Api.Edu.Modelo;
 
 namespace ManipularEmpleados.Edu.Logica
 {
     public class ManipularE : IEmpleado
     {
-        public List<IEmpleado> GetEmpleados()
+        public List<Persona> GetEmpleados()
         {
-            throw new NotImplementedException();
+            MetodosEmpleados me = new MetodosEmpleados();
+            return me.leerEmpleados();
         }
     }
 }

@@ -3,11 +3,17 @@ using Api.Edu.Modelo;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using ConexionDB.Proxy.ProxyLibros;
 
 namespace MAnipularLibros.Edu.Logica
 {
     public class ManipularL : ILibro
     {
+        private readonly MetodosLibro ml; 
+        public ManipularL()
+        {
+            ml = new MetodosLibro();
+        }
         public void agregarLibro(Libro libro)
         {
             throw new NotImplementedException();

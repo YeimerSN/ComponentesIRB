@@ -3,29 +3,35 @@ using Api.Edu.Modelo;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using ConexionDB.Proxy.ProxyGenero;
 
 namespace ManipularGenero.Edu.Logica
 {
     public class ManipularG : IGenero
     {
+        private readonly MetodosGenero mg;
+        public ManipularG()
+        {
+            mg = new MetodosGenero();
+        }
         public void agregarGenero(Genero genero)
         {
-            throw new NotImplementedException();
+            mg.agregarGenero(genero);
         }
 
         public void editarGenero(Genero genero)
         {
-            throw new NotImplementedException();
+            mg.editarGenero(genero);
         }
 
         public void eliminarGenero(Genero genero)
         {
-            throw new NotImplementedException();
+            mg.eliminarGenero(genero);
         }
 
         public List<Genero> getGeneros()
         {
-            throw new NotImplementedException();
+            return mg.leerGenero();
         }
     }
 }
