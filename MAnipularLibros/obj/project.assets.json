@@ -1,26 +1,52 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Api/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Api.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Api.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Api/1.0.0": {
+      "type": "project",
+      "path": "../Api/Api.csproj",
+      "msbuildProject": "../Api/Api.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Api >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\Portatil\\.nuget\\packages\\": {}
+    "C:\\Users\\jdros\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Portatil\\Source\\Repos\\ComponentesIRB\\MAnipularLibros\\MAnipularLibros.csproj",
+      "projectUniqueName": "C:\\Users\\jdros\\OneDrive\\Documentos\\Tareas Universidad\\8\\A&P\\Componentes\\MAnipularLibros\\MAnipularLibros.csproj",
       "projectName": "MAnipularLibros",
-      "projectPath": "C:\\Users\\Portatil\\Source\\Repos\\ComponentesIRB\\MAnipularLibros\\MAnipularLibros.csproj",
-      "packagesPath": "C:\\Users\\Portatil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Portatil\\Source\\Repos\\ComponentesIRB\\MAnipularLibros\\obj\\",
+      "projectPath": "C:\\Users\\jdros\\OneDrive\\Documentos\\Tareas Universidad\\8\\A&P\\Componentes\\MAnipularLibros\\MAnipularLibros.csproj",
+      "packagesPath": "C:\\Users\\jdros\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jdros\\OneDrive\\Documentos\\Tareas Universidad\\8\\A&P\\Componentes\\MAnipularLibros\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Portatil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jdros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,12 +54,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/abtsoftware-bleeding-edge/api/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jdros\\OneDrive\\Documentos\\Tareas Universidad\\8\\A&P\\Componentes\\Api\\Api.csproj": {
+              "projectPath": "C:\\Users\\jdros\\OneDrive\\Documentos\\Tareas Universidad\\8\\A&P\\Componentes\\Api\\Api.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -60,7 +91,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

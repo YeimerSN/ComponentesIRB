@@ -1,0 +1,13 @@
+C:\Users\jdros\OneDrive\Documentos\Tareas Universidad\8\A&P\Componentes\ConexionDB\bin\Debug\netcoreapp3.1\ConexionDB.deps.json
+C:\Users\jdros\OneDrive\Documentos\Tareas Universidad\8\A&P\Componentes\ConexionDB\bin\Debug\netcoreapp3.1\ConexionDB.dll
+C:\Users\jdros\OneDrive\Documentos\Tareas Universidad\8\A&P\Componentes\ConexionDB\bin\Debug\netcoreapp3.1\ConexionDB.pdb
+C:\Users\jdros\OneDrive\Documentos\Tareas Universidad\8\A&P\Componentes\ConexionDB\bin\Debug\netcoreapp3.1\Api.dll
+C:\Users\jdros\OneDrive\Documentos\Tareas Universidad\8\A&P\Componentes\ConexionDB\bin\Debug\netcoreapp3.1\Api.pdb
+C:\Users\jdros\OneDrive\Documentos\Tareas Universidad\8\A&P\Componentes\ConexionDB\obj\Debug\netcoreapp3.1\ConexionDB.csproj.AssemblyReference.cache
+C:\Users\jdros\OneDrive\Documentos\Tareas Universidad\8\A&P\Componentes\ConexionDB\obj\Debug\netcoreapp3.1\ConexionDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdros\OneDrive\Documentos\Tareas Universidad\8\A&P\Componentes\ConexionDB\obj\Debug\netcoreapp3.1\ConexionDB.AssemblyInfoInputs.cache
+C:\Users\jdros\OneDrive\Documentos\Tareas Universidad\8\A&P\Componentes\ConexionDB\obj\Debug\netcoreapp3.1\ConexionDB.AssemblyInfo.cs
+C:\Users\jdros\OneDrive\Documentos\Tareas Universidad\8\A&P\Componentes\ConexionDB\obj\Debug\netcoreapp3.1\ConexionDB.csproj.CoreCompileInputs.cache
+C:\Users\jdros\OneDrive\Documentos\Tareas Universidad\8\A&P\Componentes\ConexionDB\obj\Debug\netcoreapp3.1\ConexionDB.csproj.CopyComplete
+C:\Users\jdros\OneDrive\Documentos\Tareas Universidad\8\A&P\Componentes\ConexionDB\obj\Debug\netcoreapp3.1\ConexionDB.dll
+C:\Users\jdros\OneDrive\Documentos\Tareas Universidad\8\A&P\Componentes\ConexionDB\obj\Debug\netcoreapp3.1\ConexionDB.pdb

@@ -1,0 +1,10 @@
+C:\Users\jdros\OneDrive\Documentos\Tareas Universidad\8\A&P\Componentes\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+C:\Users\jdros\OneDrive\Documentos\Tareas Universidad\8\A&P\Componentes\Api\bin\Debug\netcoreapp3.1\Api.dll
+C:\Users\jdros\OneDrive\Documentos\Tareas Universidad\8\A&P\Componentes\Api\bin\Debug\netcoreapp3.1\Api.pdb
+C:\Users\jdros\OneDrive\Documentos\Tareas Universidad\8\A&P\Componentes\Api\obj\Debug\netcoreapp3.1\Api.csproj.AssemblyReference.cache
+C:\Users\jdros\OneDrive\Documentos\Tareas Universidad\8\A&P\Componentes\Api\obj\Debug\netcoreapp3.1\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdros\OneDrive\Documentos\Tareas Universidad\8\A&P\Componentes\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+C:\Users\jdros\OneDrive\Documentos\Tareas Universidad\8\A&P\Componentes\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+C:\Users\jdros\OneDrive\Documentos\Tareas Universidad\8\A&P\Componentes\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+C:\Users\jdros\OneDrive\Documentos\Tareas Universidad\8\A&P\Componentes\Api\obj\Debug\netcoreapp3.1\Api.dll
+C:\Users\jdros\OneDrive\Documentos\Tareas Universidad\8\A&P\Componentes\Api\obj\Debug\netcoreapp3.1\Api.pdb
