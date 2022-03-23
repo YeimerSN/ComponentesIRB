@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Portatil\\Source\\Repos\\ComponentesIRB\\ManipularUsuarios\\ManipularUsuarios.csproj": {}
+    "C:\\Users\\jdros\\OneDrive\\Documentos\\Tareas Universidad\\8\\A&P\\PruebaC\\ManipularUsuarios\\ManipularUsuarios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Portatil\\Source\\Repos\\ComponentesIRB\\Api\\Api.csproj": {
+    "C:\\Users\\jdros\\OneDrive\\Documentos\\Tareas Universidad\\8\\A&P\\PruebaC\\Api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Portatil\\Source\\Repos\\ComponentesIRB\\Api\\Api.csproj",
+        "projectUniqueName": "C:\\Users\\jdros\\OneDrive\\Documentos\\Tareas Universidad\\8\\A&P\\PruebaC\\Api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "C:\\Users\\Portatil\\Source\\Repos\\ComponentesIRB\\Api\\Api.csproj",
-        "packagesPath": "C:\\Users\\Portatil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Portatil\\Source\\Repos\\ComponentesIRB\\Api\\obj\\",
+        "projectPath": "C:\\Users\\jdros\\OneDrive\\Documentos\\Tareas Universidad\\8\\A&P\\PruebaC\\Api\\Api.csproj",
+        "packagesPath": "C:\\Users\\jdros\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jdros\\OneDrive\\Documentos\\Tareas Universidad\\8\\A&P\\PruebaC\\Api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Portatil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jdros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +27,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/abtsoftware-bleeding-edge/api/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -54,21 +60,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Portatil\\Source\\Repos\\ComponentesIRB\\ConexionDB\\ConexionDB.csproj": {
+    "C:\\Users\\jdros\\OneDrive\\Documentos\\Tareas Universidad\\8\\A&P\\PruebaC\\ConexionDB\\ConexionDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Portatil\\Source\\Repos\\ComponentesIRB\\ConexionDB\\ConexionDB.csproj",
+        "projectUniqueName": "C:\\Users\\jdros\\OneDrive\\Documentos\\Tareas Universidad\\8\\A&P\\PruebaC\\ConexionDB\\ConexionDB.csproj",
         "projectName": "ConexionDB",
-        "projectPath": "C:\\Users\\Portatil\\Source\\Repos\\ComponentesIRB\\ConexionDB\\ConexionDB.csproj",
-        "packagesPath": "C:\\Users\\Portatil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Portatil\\Source\\Repos\\ComponentesIRB\\ConexionDB\\obj\\",
+        "projectPath": "C:\\Users\\jdros\\OneDrive\\Documentos\\Tareas Universidad\\8\\A&P\\PruebaC\\ConexionDB\\ConexionDB.csproj",
+        "packagesPath": "C:\\Users\\jdros\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jdros\\OneDrive\\Documentos\\Tareas Universidad\\8\\A&P\\PruebaC\\ConexionDB\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Portatil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jdros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -76,14 +87,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/abtsoftware-bleeding-edge/api/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Portatil\\Source\\Repos\\ComponentesIRB\\Api\\Api.csproj": {
-                "projectPath": "C:\\Users\\Portatil\\Source\\Repos\\ComponentesIRB\\Api\\Api.csproj"
+              "C:\\Users\\jdros\\OneDrive\\Documentos\\Tareas Universidad\\8\\A&P\\PruebaC\\Api\\Api.csproj": {
+                "projectPath": "C:\\Users\\jdros\\OneDrive\\Documentos\\Tareas Universidad\\8\\A&P\\PruebaC\\Api\\Api.csproj"
               }
             }
           }
@@ -118,21 +130,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Portatil\\Source\\Repos\\ComponentesIRB\\ManipularUsuarios\\ManipularUsuarios.csproj": {
+    "C:\\Users\\jdros\\OneDrive\\Documentos\\Tareas Universidad\\8\\A&P\\PruebaC\\ManipularUsuarios\\ManipularUsuarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Portatil\\Source\\Repos\\ComponentesIRB\\ManipularUsuarios\\ManipularUsuarios.csproj",
+        "projectUniqueName": "C:\\Users\\jdros\\OneDrive\\Documentos\\Tareas Universidad\\8\\A&P\\PruebaC\\ManipularUsuarios\\ManipularUsuarios.csproj",
         "projectName": "ManipularUsuarios",
-        "projectPath": "C:\\Users\\Portatil\\Source\\Repos\\ComponentesIRB\\ManipularUsuarios\\ManipularUsuarios.csproj",
-        "packagesPath": "C:\\Users\\Portatil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Portatil\\Source\\Repos\\ComponentesIRB\\ManipularUsuarios\\obj\\",
+        "projectPath": "C:\\Users\\jdros\\OneDrive\\Documentos\\Tareas Universidad\\8\\A&P\\PruebaC\\ManipularUsuarios\\ManipularUsuarios.csproj",
+        "packagesPath": "C:\\Users\\jdros\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jdros\\OneDrive\\Documentos\\Tareas Universidad\\8\\A&P\\PruebaC\\ManipularUsuarios\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Portatil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jdros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -140,17 +157,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/abtsoftware-bleeding-edge/api/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Portatil\\Source\\Repos\\ComponentesIRB\\Api\\Api.csproj": {
-                "projectPath": "C:\\Users\\Portatil\\Source\\Repos\\ComponentesIRB\\Api\\Api.csproj"
+              "C:\\Users\\jdros\\OneDrive\\Documentos\\Tareas Universidad\\8\\A&P\\PruebaC\\Api\\Api.csproj": {
+                "projectPath": "C:\\Users\\jdros\\OneDrive\\Documentos\\Tareas Universidad\\8\\A&P\\PruebaC\\Api\\Api.csproj"
               },
-              "C:\\Users\\Portatil\\Source\\Repos\\ComponentesIRB\\ConexionDB\\ConexionDB.csproj": {
-                "projectPath": "C:\\Users\\Portatil\\Source\\Repos\\ComponentesIRB\\ConexionDB\\ConexionDB.csproj"
+              "C:\\Users\\jdros\\OneDrive\\Documentos\\Tareas Universidad\\8\\A&P\\PruebaC\\ConexionDB\\ConexionDB.csproj": {
+                "projectPath": "C:\\Users\\jdros\\OneDrive\\Documentos\\Tareas Universidad\\8\\A&P\\PruebaC\\ConexionDB\\ConexionDB.csproj"
               }
             }
           }
@@ -179,7 +197,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
