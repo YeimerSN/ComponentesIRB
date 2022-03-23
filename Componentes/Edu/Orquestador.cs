@@ -13,7 +13,7 @@ namespace Componentes.Edu
         public void moderar()
         {
             //string ruta = Directory.GetCurrentDirectory();
-            string ruta = @"C:\Users\Portatil\source\repos\ProyectoIRB\OrquestadorFinal\Front";
+            string ruta = @"C:\Users\Portatil\source\repos\ComponentesIRB\Componentes\Front";
             //ruta = Path.Combine(ruta, "Front");
             Console.WriteLine("Front");
             Cargador car = new Cargador(ruta);
@@ -56,7 +56,7 @@ namespace Componentes.Edu
 
             //ruta = Directory.GetCurrentDirectory();
             //ruta = Path.Combine(ruta, "Back");
-            ruta = @"C:\Users\Portatil\source\repos\ProyectoIRB\OrquestadorFinal\Back";
+            ruta = @"C:\Users\Portatil\source\repos\ComponentesIRB\Componentes\Back";
             Console.WriteLine("");
             Console.WriteLine("Back");
             car = new Cargador(ruta);

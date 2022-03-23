@@ -1,0 +1,15 @@
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPrestamos\bin\Debug\netcoreapp3.1\ManipularPrestamos.deps.json
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPrestamos\bin\Debug\netcoreapp3.1\ManipularPrestamos.dll
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPrestamos\bin\Debug\netcoreapp3.1\ManipularPrestamos.pdb
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPrestamos\bin\Debug\netcoreapp3.1\Api.dll
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPrestamos\bin\Debug\netcoreapp3.1\ConexionDB.dll
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPrestamos\bin\Debug\netcoreapp3.1\Api.pdb
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPrestamos\bin\Debug\netcoreapp3.1\ConexionDB.pdb
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPrestamos\obj\Debug\netcoreapp3.1\ManipularPrestamos.csproj.AssemblyReference.cache
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPrestamos\obj\Debug\netcoreapp3.1\ManipularPrestamos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPrestamos\obj\Debug\netcoreapp3.1\ManipularPrestamos.AssemblyInfoInputs.cache
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPrestamos\obj\Debug\netcoreapp3.1\ManipularPrestamos.AssemblyInfo.cs
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPrestamos\obj\Debug\netcoreapp3.1\ManipularPrestamos.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPrestamos\obj\Debug\netcoreapp3.1\ManipularPrestamos.csproj.CopyComplete
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPrestamos\obj\Debug\netcoreapp3.1\ManipularPrestamos.dll
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPrestamos\obj\Debug\netcoreapp3.1\ManipularPrestamos.pdb

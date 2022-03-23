@@ -6,9 +6,9 @@ namespace ConexionDB.Patron_Comando
     public class AgregarPelicula:IComando
     {
         private  Pelicula producto { get; set; }
-        public AgregarPelicula(Pelicula producto)
+        public AgregarPelicula(Pelicula pelicula)
         {
-            this.producto = producto;
+            producto = pelicula;
         }
         public void ejecutar()
         {
@@ -18,4 +18,3 @@ namespace ConexionDB.Patron_Comando
         }
     }
 }
-//https://es.wikipedia.org/wiki/Command_(patr%C3%B3n_de_dise%C3%B1o)

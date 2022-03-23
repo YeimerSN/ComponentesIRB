@@ -1,0 +1,15 @@
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularUsuarios\bin\Debug\netcoreapp3.1\ManipularUsuarios.deps.json
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularUsuarios\bin\Debug\netcoreapp3.1\ManipularUsuarios.dll
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularUsuarios\bin\Debug\netcoreapp3.1\ManipularUsuarios.pdb
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularUsuarios\bin\Debug\netcoreapp3.1\Api.dll
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularUsuarios\bin\Debug\netcoreapp3.1\ConexionDB.dll
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularUsuarios\bin\Debug\netcoreapp3.1\Api.pdb
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularUsuarios\bin\Debug\netcoreapp3.1\ConexionDB.pdb
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularUsuarios\obj\Debug\netcoreapp3.1\ManipularUsuarios.csproj.AssemblyReference.cache
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularUsuarios\obj\Debug\netcoreapp3.1\ManipularUsuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularUsuarios\obj\Debug\netcoreapp3.1\ManipularUsuarios.AssemblyInfoInputs.cache
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularUsuarios\obj\Debug\netcoreapp3.1\ManipularUsuarios.AssemblyInfo.cs
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularUsuarios\obj\Debug\netcoreapp3.1\ManipularUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularUsuarios\obj\Debug\netcoreapp3.1\ManipularUsuarios.csproj.CopyComplete
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularUsuarios\obj\Debug\netcoreapp3.1\ManipularUsuarios.dll
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularUsuarios\obj\Debug\netcoreapp3.1\ManipularUsuarios.pdb

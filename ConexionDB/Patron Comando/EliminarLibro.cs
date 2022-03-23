@@ -7,9 +7,9 @@ namespace ConexionDB.Patron_Comando
     public class EliminarLibro: IComando
     {
         private Libro producto { get; set; }
-        public EliminarLibro(Libro producto)
+        public EliminarLibro(Libro libro)
         {
-            this.producto = producto;
+            producto = libro;
         }
         public void ejecutar()
         {

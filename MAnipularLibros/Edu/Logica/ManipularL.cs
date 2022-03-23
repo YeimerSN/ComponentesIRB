@@ -2,36 +2,44 @@
 using Api.Edu.Modelo;
 using System;
 using System.Collections.Generic;
-using System.Text;
+using ConexionDB.Patron_Comando;
 using ConexionDB.Proxy.ProxyLibros;
 
 namespace MAnipularLibros.Edu.Logica
 {
     public class ManipularL : ILibro
     {
-        private readonly MetodosLibro ml; 
-        public ManipularL()
+        private readonly IComando al;
+        private readonly IComando edl;
+        private readonly IComando el;
+        private readonly ControlInventario invocador;
+        private readonly MetodosLibro ml;
+        public ManipularL(Libro libro)
         {
-            ml = new MetodosLibro();
+            al = new AgregarLibro(libro);
+            edl = new EditarLibro(libro);
+            el = new EliminarLibro(libro);
+            invocador = new ControlInventario(al, edl, el);
+            ml = new MetodosLibro(); 
         }
-        public void agregarLibro(Libro libro)
+        public void agregarLibro()
         {
-            throw new NotImplementedException();
+            invocador.agregarProducto();
         }
 
-        public void editarLibro(Libro libro)
+        public void editarLibro()
         {
-            throw new NotImplementedException();
+            invocador.editarProducto();
         }
 
-        public void eliminarLibro(Libro libro)
+        public void eliminarLibro()
         {
-            throw new NotImplementedException();
+            invocador.eliminarProducto();
         }
 
         public List<Libro> getLibros()
         {
-            throw new NotImplementedException();
+            return ml.leerLibros();
         }
     }
 }

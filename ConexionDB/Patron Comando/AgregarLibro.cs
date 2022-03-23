@@ -6,9 +6,9 @@ namespace ConexionDB.Patron_Comando
     public class AgregarLibro:IComando
     {
         private  Libro producto { get; set; }
-        public AgregarLibro(Libro producto)
+        public AgregarLibro(Libro libro)
         {
-            this.producto = producto;
+            producto = libro;
         }
         public void ejecutar()
         {
@@ -16,6 +16,6 @@ namespace ConexionDB.Patron_Comando
             MetodosLibro metodosLibro = new MetodosLibro();
             metodosLibro.agregarLibro(producto);
         }
-
+        
     }
 }

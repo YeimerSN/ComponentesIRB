@@ -8,8 +8,8 @@ namespace Api.Edu.Interfaces
     public interface ILibro
     {
         public List<Libro> getLibros();
-        public void agregarLibro(Libro libro);
-        public void editarLibro(Libro libro);
-        public void eliminarLibro(Libro libro);
+        public void agregarLibro();
+        public void editarLibro();
+        public void eliminarLibro();
     }
 }

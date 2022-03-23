@@ -6,9 +6,9 @@ namespace ConexionDB.Patron_Comando
     public class EditarPelicula: IComando
     {
         private Pelicula producto { get; set; }
-        public EditarPelicula(Pelicula producto)
+        public EditarPelicula(Pelicula pelicula)
         {
-            this.producto = producto;
+            producto = pelicula;
         }
         public void ejecutar()
         {

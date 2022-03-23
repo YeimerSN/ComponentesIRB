@@ -1,0 +1,15 @@
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPeliculas\bin\Debug\netcoreapp3.1\ManipularPeliculas.deps.json
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPeliculas\bin\Debug\netcoreapp3.1\ManipularPeliculas.dll
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPeliculas\bin\Debug\netcoreapp3.1\ManipularPeliculas.pdb
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPeliculas\bin\Debug\netcoreapp3.1\Api.dll
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPeliculas\bin\Debug\netcoreapp3.1\ConexionDB.dll
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPeliculas\bin\Debug\netcoreapp3.1\Api.pdb
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPeliculas\bin\Debug\netcoreapp3.1\ConexionDB.pdb
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPeliculas\obj\Debug\netcoreapp3.1\ManipularPeliculas.csproj.AssemblyReference.cache
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPeliculas\obj\Debug\netcoreapp3.1\ManipularPeliculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPeliculas\obj\Debug\netcoreapp3.1\ManipularPeliculas.AssemblyInfoInputs.cache
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPeliculas\obj\Debug\netcoreapp3.1\ManipularPeliculas.AssemblyInfo.cs
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPeliculas\obj\Debug\netcoreapp3.1\ManipularPeliculas.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPeliculas\obj\Debug\netcoreapp3.1\ManipularPeliculas.csproj.CopyComplete
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPeliculas\obj\Debug\netcoreapp3.1\ManipularPeliculas.dll
+C:\Users\Portatil\Source\Repos\ComponentesIRB\ManipularPeliculas\obj\Debug\netcoreapp3.1\ManipularPeliculas.pdb

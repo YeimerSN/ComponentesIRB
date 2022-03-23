@@ -6,9 +6,9 @@ namespace ConexionDB.Patron_Comando
     public class EditarLibro: IComando
     {
         private Libro producto { get; set; }
-        public EditarLibro(Libro producto)
+        public EditarLibro(Libro libro)
         {
-            this.producto = producto;
+            producto = libro;
         }
         public void ejecutar()
         {

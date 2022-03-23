@@ -8,8 +8,8 @@ namespace Api.Edu.Interfaces
     public interface IPelicula
     {
         public List<Pelicula> getPeliculas();
-        public void agregarPelicula(Pelicula pelicula);
-        public void editarPelicula(Pelicula pelicula);
-        public void eliminarPelicula(Pelicula pelicula);
+        public void agregarPelicula();
+        public void editarPelicula();
+        public void eliminarPelicula();
     }
 }

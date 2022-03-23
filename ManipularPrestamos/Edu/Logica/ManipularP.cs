@@ -2,15 +2,20 @@
 using Api.Edu.Modelo;
 using System;
 using System.Collections.Generic;
-using System.Text;
+using ConexionDB.Proxy.ProxyPrestamo;
 
 namespace ManipularPrestamos.Edu.Logica
 {
     public class ManipularP : IPrestamo
     {
+        private readonly MetodosPrestamos mp;
+        public ManipularP()
+        {
+            mp = new MetodosPrestamos();
+        }
         public List<Prestamo> prestamos()
         {
-            throw new NotImplementedException();
+            return mp.leerPrestamo();
         }
     }
 }

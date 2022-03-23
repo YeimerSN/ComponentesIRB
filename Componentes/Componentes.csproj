@@ -6,11 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Back\" />
-    <Folder Include="Front\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Api\Api.csproj" />
   </ItemGroup>
 

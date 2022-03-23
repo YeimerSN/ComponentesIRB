@@ -7,9 +7,9 @@ namespace ConexionDB.Patron_Comando
     public class EliminarPelicula : IComando
     {
         private Pelicula producto { get; set; }
-        public EliminarPelicula(Pelicula producto)
+        public EliminarPelicula(Pelicula pelicula)
         {
-            this.producto = producto;
+            producto = pelicula;
         }
         public void ejecutar()
         {

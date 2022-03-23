@@ -1,0 +1,5 @@
+C:\Users\Portatil\Source\Repos\ComponentesIRB\Componentes\obj\Debug\netcoreapp3.1\Componentes.csproj.AssemblyReference.cache
+C:\Users\Portatil\Source\Repos\ComponentesIRB\Componentes\obj\Debug\netcoreapp3.1\Componentes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Portatil\Source\Repos\ComponentesIRB\Componentes\obj\Debug\netcoreapp3.1\Componentes.AssemblyInfoInputs.cache
+C:\Users\Portatil\Source\Repos\ComponentesIRB\Componentes\obj\Debug\netcoreapp3.1\Componentes.AssemblyInfo.cs
+C:\Users\Portatil\Source\Repos\ComponentesIRB\Componentes\obj\Debug\netcoreapp3.1\Componentes.csproj.CoreCompileInputs.cache

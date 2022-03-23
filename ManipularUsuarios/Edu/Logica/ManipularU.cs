@@ -2,30 +2,35 @@
 using Api.Edu.Modelo;
 using System;
 using System.Collections.Generic;
-using System.Text;
+using ConexionDB.Fachada;
 
 namespace ManipularUsuarios.Edu.Logica
 {
     public class ManipularU : IUsuario
     {
+        private readonly FachadaUsuario fu;
+        public ManipularU()
+        {
+            fu = new FachadaUsuario();
+        }
         public void agregarUsuario(Usuario usuario)
         {
-            throw new NotImplementedException();
+            fu.agregarU(usuario);
         }
 
         public void editarUsuario(Usuario usuario)
         {
-            throw new NotImplementedException();
+            fu.modificarU(usuario);
         }
 
         public void eliminarUsuario(Usuario usuario)
         {
-            throw new NotImplementedException();
+            fu.eliminarU(usuario);
         }
 
         public List<Usuario> getUsuarios()
         {
-            throw new NotImplementedException();
+            return fu.listarU();
         }
     }
 }
